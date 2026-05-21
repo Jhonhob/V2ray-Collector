@@ -1,1 +1,1 @@
-socks5://64.227.131.240:1080#@DeltaKroneckerGithub
+socks5://128.140.46.169:13482
